@@ -1,13 +1,13 @@
 [package]
 name = "fuel_line"
-version = "0.2.2"
+version = "0.1.0"
 authors = ["Pete Mertz <peter.s.mertz@gmail.com>"]
 description = "A fast template to string macro."
 readme = "README.md"
 license = "MIT"
-documentation = "https://github.com/trezm/templatify"
-homepage = "https://github.com/trezm/templatify"
-repository = "https://github.com/trezm/templatify"
+documentation = "https://github.com/trezm/fuel-line"
+homepage = "https://github.com/trezm/fuel-line"
+repository = "https://github.com/trezm/fuel-line"
 
 
 [dependencies]
