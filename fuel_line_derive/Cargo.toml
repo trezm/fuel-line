@@ -1,0 +1,12 @@
+[package]
+name = "fuel_line_derive"
+version = "0.1.0"
+authors = ["Pete Mertz <peter.s.mertz@gmail.com>"]
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = { version="0.13.1", features=["extra-traits"] }
+quote = "0.5.1"
+proc-macro2 = "0.3.5"

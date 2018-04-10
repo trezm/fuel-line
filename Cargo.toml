@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "fuel_line",
+    "fuel_line_derive"
+]
