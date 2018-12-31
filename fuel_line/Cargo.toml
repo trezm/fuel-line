@@ -1,6 +1,6 @@
 [package]
 name = "fuel_line"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["Pete Mertz <peter.s.mertz@gmail.com>"]
 description = "A fast template to string macro."
 readme = "README.md"
@@ -12,5 +12,5 @@ repository = "https://github.com/trezm/fuel-line"
 
 [dependencies]
 bytes = "0.4"
-fuel_line_derive = { version = "0.1", path = "../fuel_line_derive" }
+fuel_line_derive = { version = "0.1.2", path = "../fuel_line_derive" }
 uuid = { version = "0.6", features = ["v4"] }
